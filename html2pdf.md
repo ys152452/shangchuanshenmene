@@ -1,4 +1,5 @@
 
+```javascript
   $("body").on("click", ".J_down", function () {
     $('.header').hide();
     $('.verifycourse .course-suggest .note').hide();
@@ -54,3 +55,5 @@
     })
     $('.header').show();
   })
+```
+参考（复制）https://segmentfault.com/a/1190000015820189
